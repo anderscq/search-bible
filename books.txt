@@ -1,0 +1,66 @@
+gn -> Genesis
+ex -> Exodo
+lv -> Levitico
+nm -> Numeros
+dt -> Deuteronomio
+js -> Josue
+jz -> Juizes
+rt -> Rute
+1sm -> 1 Samuel
+2sm -> 2 Samuel
+1rs -> 1 Reis
+2rs -> 2 Reis
+1cr -> 1 Cronicas
+2cr -> 2 Cronicas
+ed -> Esdras
+ne -> Neemias
+et -> Ester
+jó -> Jó
+sl -> Salmos
+pv -> Proverbios
+ec -> Eclesiastes
+ct -> Canticos
+is -> Isaias
+jr -> Jeremias
+lm -> Lamentacoes
+ez -> Ezequiel
+dn -> Daniel
+os -> Oseias
+jl -> Joel
+am -> Amos
+ob -> Obadias
+jn -> Jonas
+mq -> Miqueias
+na -> Naum
+hc -> Habacuque
+sf -> Sofonias
+ag -> Ageu
+zc -> Zacarias
+ml -> Malaquias
+mt -> Mateus
+mc -> Marcos
+lc -> Lucas
+jo -> Joao
+atos -> Atos
+rm -> Romanos
+1co -> 1 Corintios
+2co -> 2 Corintios
+gl -> Galatas
+ef -> Efesios
+fp -> Filipenses
+cl -> Colossenses
+1ts -> 1 Tessalonicenses
+2ts -> 2 Tessalonicenses
+1tm -> 1 Timoteo
+2tm -> 2 Timoteo
+tt -> Tito
+fm -> Filemom
+hb -> Hebreus
+tg -> Tiago
+1pe -> 1 Pedro
+2pe -> 2 Pedro
+1jo -> 1 Joao
+2jo -> 2 Joao
+3jo -> 3 Joao
+jd -> Judas
+ap -> Apocalipse
